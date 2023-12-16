@@ -10,3 +10,5 @@ cover: cover.jpg
 **Test post**
 
 This is a test blog post
+
+![test image](./blog-img.jpg)
