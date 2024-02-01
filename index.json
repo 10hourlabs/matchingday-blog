@@ -14,5 +14,13 @@
     "author": "Matchingday",
     "duration": "1 minute read",
     "cover": "image.jpg"
+  },
+  {
+    "date": "February 10th, 2024",
+    "slug": "matchingday-test-post-two",
+    "title": "Test post two",
+    "author": "Fiyin",
+    "duration": "1 minute read",
+    "cover": "image2.jpg"
   }
 ]
